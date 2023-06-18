@@ -42,14 +42,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                tools:src="@tools:sample/avatars" />
+                tools:src="@drawable/baseline_add_circle_24" />
 
             <ImageButton
                 android:id="@+id/imageButton2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                tools:src="@tools:sample/avatars" />
+                tools:src="@drawable/baseline_settings_24" />
 
         </LinearLayout>
 
